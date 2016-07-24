@@ -1,17 +1,18 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mikeroewave.com" resolutions="1x" timestamp="1469072099354">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mikeroewave.com" resolutions="1x" timestamp="1469396330374">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="master_b-master.css" crc="3861151757" ref="web-design"/>
+    <file name="master_b-master.css" crc="418741256" ref="web-design"/>
     <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="web-design"/>
-    <file name="master_a-master.css" crc="305901315" ref="index:film:contact:digital"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:film:contact:digital"/>
-    <file name="index.css" crc="274149454" ref="index"/>
+    <file name="master_a-master.css" crc="499023210" ref="index:film:contact:digital"/>
+    <file name="nomq_preview_master_a-master.css" crc="3771631262" ref="index:film:contact:digital"/>
+    <file name="index.css" crc="4042245098" ref="index"/>
     <file name="nomq_index.css" crc="3959521828" ref="index"/>
-    <file name="film.css" crc="3868769057" ref="film"/>
-    <file name="web-design.css" crc="4294891325" ref="web-design"/>
+    <file name="film.css" crc="4113806025" ref="film"/>
+    <file name="web-design.css" crc="2818222" ref="web-design"/>
     <file name="nomq_web-design.css" crc="21321261" ref="web-design"/>
-    <file name="contact.css" crc="290447816" ref="contact"/>
-    <file name="digital.css" crc="265761186" ref="digital"/>
+    <file name="contact.css" crc="3887245961" ref="contact"/>
+    <file name="digital.css" crc="3988735565" ref="digital"/>
+    <file name="nomq_contact.css" crc="3824530138" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:film:digital:contact:web-design"/>
@@ -164,10 +165,11 @@
     <file name="u5573-17-fs2.png" crc="336805348" ref="web-design"/>
     <file name="u55772.png" crc="390971699" ref="web-design"/>
     <file name="u5577-ferr2.png" crc="4098624939" ref="web-design"/>
+    <file name="favicon.ico" crc="300777466" ref="index"/>
   </folder>
-  <file name="index.html" crc="3947085752" seo="true" mt="1469072082866" redirect="true"/>
-  <file name="film.html" crc="4241035170" seo="true" mt="1469072035696" redirect="true"/>
-  <file name="digital.html" crc="251701443" seo="true" mt="1469072043952" redirect="true"/>
-  <file name="contact.html" crc="67747878" seo="true" mt="1469072035696" redirect="true"/>
-  <file name="web-design.html" crc="486086638" seo="true" mt="1468991878245" redirect="true"/>
+  <file name="index.html" crc="3873551521" seo="true" mt="1469396294697" redirect="true"/>
+  <file name="film.html" crc="4212809978" seo="true" mt="1469313951570" redirect="true"/>
+  <file name="digital.html" crc="4179990200" seo="true" mt="1469313951570" redirect="true"/>
+  <file name="contact.html" crc="431613142" seo="true" mt="1469313951570" redirect="true"/>
+  <file name="web-design.html" crc="4204155533" seo="true" mt="1469396327142" redirect="true"/>
 </manifest>
