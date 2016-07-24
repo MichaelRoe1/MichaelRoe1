@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mikeroewave.com" resolutions="1x" timestamp="1469396330374">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mikeroewave.com" resolutions="1x" timestamp="1469403437231">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="master_b-master.css" crc="418741256" ref="web-design"/>
@@ -8,7 +8,7 @@
     <file name="index.css" crc="4042245098" ref="index"/>
     <file name="nomq_index.css" crc="3959521828" ref="index"/>
     <file name="film.css" crc="4113806025" ref="film"/>
-    <file name="web-design.css" crc="2818222" ref="web-design"/>
+    <file name="web-design.css" crc="4013830978" ref="web-design"/>
     <file name="nomq_web-design.css" crc="21321261" ref="web-design"/>
     <file name="contact.css" crc="3887245961" ref="contact"/>
     <file name="digital.css" crc="3988735565" ref="digital"/>
@@ -145,13 +145,13 @@
     <file name="u5577-ferr.png" crc="4098624939" ref="web-design"/>
     <file name="landing_page340x177.png" crc="3779924344" seo="true" ref="web-design"/>
     <file name="web_design landing page153x142.png" crc="4126614189" seo="true" ref="web-design"/>
-    <file name="u6741-72.png" crc="3999827224" ref="web-design"/>
+    <file name="u6741-72.png" crc="358278730" ref="web-design"/>
     <file name="u6751-72.png" crc="4279485659" ref="web-design"/>
     <file name="u6757-72.png" crc="3866845829" ref="web-design"/>
     <file name="u6745-72.png" crc="52884687" ref="web-design"/>
     <file name="u6763-72.png" crc="4140652557" ref="web-design"/>
     <file name="u6769-82.png" crc="346855801" ref="web-design"/>
-    <file name="u8262-72.png" crc="3909549841" ref="web-design"/>
+    <file name="u8262-72.png" crc="82654093" ref="web-design"/>
     <file name="u8266-42.png" crc="414291099" ref="web-design"/>
     <file name="u8272-42.png" crc="347010682" ref="web-design"/>
     <file name="u55832.png" crc="94530739" ref="web-design"/>
@@ -165,11 +165,11 @@
     <file name="u5573-17-fs2.png" crc="336805348" ref="web-design"/>
     <file name="u55772.png" crc="390971699" ref="web-design"/>
     <file name="u5577-ferr2.png" crc="4098624939" ref="web-design"/>
-    <file name="favicon.ico" crc="300777466" ref="index"/>
+    <file name="favicon.ico" crc="3771562824" ref="index"/>
   </folder>
-  <file name="index.html" crc="3873551521" seo="true" mt="1469396294697" redirect="true"/>
-  <file name="film.html" crc="4212809978" seo="true" mt="1469313951570" redirect="true"/>
-  <file name="digital.html" crc="4179990200" seo="true" mt="1469313951570" redirect="true"/>
-  <file name="contact.html" crc="431613142" seo="true" mt="1469313951570" redirect="true"/>
-  <file name="web-design.html" crc="4204155533" seo="true" mt="1469396327142" redirect="true"/>
+  <file name="index.html" crc="4200310618" seo="true" mt="1469403408690" redirect="true"/>
+  <file name="film.html" crc="4176330706" seo="true" mt="1469403388282" redirect="true"/>
+  <file name="digital.html" crc="94933985" seo="true" mt="1469403388282" redirect="true"/>
+  <file name="contact.html" crc="4264662948" seo="true" mt="1469403388282" redirect="true"/>
+  <file name="web-design.html" crc="3916921461" seo="true" mt="1469403424618" redirect="true"/>
 </manifest>
