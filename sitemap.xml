@@ -294,12 +294,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikeroewave.com/images/pasted-svg-132008x844.svg</loc>
-    <lastmod>2016-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mikeroewave.com/images/web_design%20landing%20page.png</loc>
     <lastmod>2016-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -312,6 +306,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mikeroewave.com/images/pasted-svg-179x102.svg</loc>
+    <lastmod>2016-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mikeroewave.com/images/pasted-svg-132008x842.svg</loc>
     <lastmod>2016-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -319,12 +319,6 @@
   </url>
   <url>
     <loc>http://mikeroewave.com/images/hplloyd.jpg</loc>
-    <lastmod>2016-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mikeroewave.com/images/pasted-svg-17276x137.svg</loc>
     <lastmod>2016-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -373,18 +367,6 @@
   </url>
   <url>
     <loc>http://mikeroewave.com/images/web_design%20landing%20page153x142.png</loc>
-    <lastmod>2016-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mikeroewave.com/images/hplloyd218x145.jpg</loc>
-    <lastmod>2016-07-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mikeroewave.com/images/redback241x160.jpg</loc>
     <lastmod>2016-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -600,6 +582,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mikeroewave.com/images/down_arrow.png</loc>
+    <lastmod>2016-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mikeroewave.com/images/hplloyd259x172.jpg</loc>
+    <lastmod>2016-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mikeroewave.com/images/redback271x180.jpg</loc>
+    <lastmod>2016-07-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mikeroewave.com/images/pasted-svg-132008x84.svg</loc>
     <lastmod>2016-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -618,13 +618,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikeroewave.com/images/pasted-svg-179x102.svg</loc>
+    <loc>http://mikeroewave.com/images/pasted-svg-24044x138.svg</loc>
     <lastmod>2016-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikeroewave.com/images/pasted-svg-24044x138.svg</loc>
+    <loc>http://mikeroewave.com/images/pasted-svg-17276x137.svg</loc>
     <lastmod>2016-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
